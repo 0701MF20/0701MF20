@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faraz currently pursuing B.Tech compututer engineering
+- 👋 Hi, I’m currently pursuing B.Tech compututer engineering
 - 👀 I’m interested in android development.
 - 🌱 I’m currently learning android development and DSA 
 - 💞️ I’m looking to collaborate on any project so that i can work in team.
