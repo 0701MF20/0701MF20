@@ -2,7 +2,8 @@
 - 👀 I’m interested in android development.
 - 🌱 I’m currently learning android development and DSA 
 - 💞️ I’m looking to collaborate on any project so that i can work in team.
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
+- Gmail-farazjanuary@gmail.com
 
 <!---
 0701MF20/0701MF20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
