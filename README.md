@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohd Faraz.Currently pursuing B.Tech compututer engineering
-- 👀 I’m interested in android development.
+- 👀 I’m interested in android development and Machine Learning Enthusiast.
 - 🌱 I’m currently learning android development and build some projects.
 - 💞️ I’m looking to collaborate on any project so that i can work in team.
 - 📫 How to reach me ... 
